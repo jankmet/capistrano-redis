@@ -1,1 +1,1 @@
-load File.expand_path('../stalker/tasks/redis.cap', __FILE__)
+load File.expand_path('../redis/tasks/redis.cap', __FILE__)
