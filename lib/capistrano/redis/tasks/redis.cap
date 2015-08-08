@@ -2,6 +2,7 @@ namespace :redis do
   desc "basic info for remote redis databases"
   task :info do
     # TODO
+    puts 'redis info task...'
   end
 
 end
